@@ -37,10 +37,11 @@ hr {
 
 .intro {
   margin-top: 50px !important;
-   background-image:url(../images/DSC02608-w.jpg);
+  background:url(../images/DSC02608-w.jpg) no-repeat center center fixed;
+   /*background-image:url(../images/DSC02608-w.jpg);
    background-repeat: no-repeat;
    background-position: center center;
-   background-attachment: fixed;
+   background-attachment: fixed;*/
   background-size: cover;
 }
 body h1 {
