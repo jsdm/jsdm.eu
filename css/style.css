@@ -37,7 +37,7 @@ hr {
 
 .intro {
   margin-top: 50px !important;
-   background-image:url(./images/DSC02608-w.jpg);
+   background-image:url(../images/DSC02608-w.jpg);
    background-repeat: no-repeat;
    background-position: center center;
    background-attachment: fixed;
@@ -50,7 +50,7 @@ body h1 {
 }
 
 .about {
-  background:url(./images/DSC02403-w.jpg) no-repeat center center fixed;
+  background:url(../images/DSC02403-w.jpg) no-repeat center center fixed;
   background-size: cover;
 }
 
